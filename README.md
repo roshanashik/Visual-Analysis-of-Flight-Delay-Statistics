@@ -17,6 +17,8 @@ This Dash web application provides an interactive dashboard for exploring flight
 \- Interactive line charts using Plotly.
 
 
+![Flight Delay Dashboard](dashboard.png)
+
 
 \## How to Run
 
